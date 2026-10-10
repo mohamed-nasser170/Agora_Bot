@@ -1,0 +1,8 @@
+fastapi>=0.110
+uvicorn[standard]>=0.29
+langchain-core>=0.2
+langchain-groq>=0.3
+langgraph>=0.1
+python-dotenv>=1.0.1
+requests>=2.32.3
+rich>=13.7        # only used by the terminal chat (main.py)
